@@ -4,3 +4,6 @@ List of learning resources related to tech (tutorials, course, books, etc)
 ## coding projects
 - [ ] [Arcade Classic in JavaScript on Canvas](https://www.udemy.com/course/code-your-first-game) (HTML5, JS)
 - [ ] [ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
+
+## tech talks
+- [ ] [Web Development is Distributed Systems Programming - Mikaela Patella](https://www.youtube.com/watch?v=KxMK2AklpNY)
