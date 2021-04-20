@@ -6,4 +6,4 @@ List of learning resources related to tech (tutorials, course, books, etc)
 - [ ] [ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
 
 ## tech talks
-- [ ] [Web Development is Distributed Systems Programming - Mikaela Patella](https://www.youtube.com/watch?v=KxMK2AklpNY)
+- [X] [Web Development is Distributed Systems Programming - Mikaela Patella](https://www.youtube.com/watch?v=KxMK2AklpNY)
