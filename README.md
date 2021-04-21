@@ -7,3 +7,4 @@ List of learning resources related to tech (tutorials, course, books, etc)
 
 ## tech talks
 - [X] [Web Development is Distributed Systems Programming - Mikaela Patella](https://www.youtube.com/watch?v=KxMK2AklpNY)
+- [X] [What Breaks Our Systems: A Taxonomy of Black Swans - Laura Nolan](https://www.youtube.com/watch?v=LSQUO_Yi9oM)
