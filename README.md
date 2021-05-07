@@ -9,6 +9,10 @@ List of learning resources related to tech (tutorials, course, books, etc)
 - [ ] [Bash tutorials](https://linuxize.com/tags/bash/)
 - [ ] [Everything curl](https://everything.curl.dev/)
 
-## tech talks
+## talks
 - [X] [Web Development is Distributed Systems Programming - Mikaela Patella](https://www.youtube.com/watch?v=KxMK2AklpNY)
 - [X] [What Breaks Our Systems: A Taxonomy of Black Swans - Laura Nolan](https://www.youtube.com/watch?v=LSQUO_Yi9oM)
+
+## books
+- [ ] [Hands-On High Performance with Go](https://www.amazon.com/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D)
+- [ ] [Mastering Kafka Streams and ksqlDB](https://www.amazon.com/Mastering-Kafka-Streams-ksqlDB-Real-Time/dp/1492062499)
