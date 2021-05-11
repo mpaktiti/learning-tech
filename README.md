@@ -16,3 +16,4 @@ List of learning resources related to tech (tutorials, course, books, etc)
 ## books
 - [ ] [Hands-On High Performance with Go](https://www.amazon.com/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D)
 - [ ] [Mastering Kafka Streams and ksqlDB](https://www.amazon.com/Mastering-Kafka-Streams-ksqlDB-Real-Time/dp/1492062499)
+- [ ] [How Linux Works](https://nostarch.com/howlinuxworks3?s=03)
