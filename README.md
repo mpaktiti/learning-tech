@@ -8,6 +8,7 @@ List of learning resources related to tech (tutorials, course, books, etc)
 ## tutorials
 - [ ] [Bash tutorials](https://linuxize.com/tags/bash/)
 - [ ] [Everything curl](https://everything.curl.dev/)
+- [ ] [All the Golang Resources you can possibly want](https://golangresources.com/)
 
 ## talks
 - [X] [Web Development is Distributed Systems Programming - Mikaela Patella](https://www.youtube.com/watch?v=KxMK2AklpNY)
